@@ -244,6 +244,19 @@ By default, PowerShell collects the OS description and the version of PowerShell
 To opt-out of sending telemetry, create an environment variable called `POWERSHELL_TELEMETRY_OPTOUT` set to a value of `1` before starting PowerShell from the installed location.
 The telemetry we collect falls under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement/).
 
+
+## Support
+
+If you want to support the development of this app, feel free to [sponsor](https://ko-fi.com/justiceoheneamofa) me or [buy me a coffee](https://ko-fi.com/justiceoheneamofa).
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justiceoheneamofa)
+
+## Copyright
+
+This project has no license. That means you are not allowed to sell or distribute this app.
+All rights reserved.
+© 2023 Justice O. Amofa
+
 ## Governance
 
 The governance policy for the PowerShell project is described [here][].
